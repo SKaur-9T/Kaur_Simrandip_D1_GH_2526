@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #b6cbce !important;
+    color: #333;
+}
+
+form {
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 1000px;
+    background-color: #f9f9f9;
+}
+
+h1 {
+    text-align: center;
+    background-color: #b6e4ea;
+    border-radius: 20px;
+}
+
+main {
+    text-align: center;
+    margin-top: 100px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 100px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+#output {
+    text-align: center;
+}
+
+.btn {
+    background-color: rgba(70, 57, 48, 0.381) !important;
+    width: 100% !important;
+    margin: auto;
+    margin-top: 14px !important;
+}
+.btn:hover {
+    background-color: rgba(252, 194, 234, 0.381) !important;
+    width: 100% !important;
+    margin: auto;
+    margin-top: 14px !important;
+    scale: 1.2px;
+}
